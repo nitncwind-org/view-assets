@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2 
 
-      - name: test
+      - name: run
         run: mkdir dist && cd dist && sh ../run.sh
 
       - name: Deploy
