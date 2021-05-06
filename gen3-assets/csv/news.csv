@@ -1,4 +1,13 @@
-id,件名,本文,日付,宛名,発信者名,公開日,バーナー<cms-br>表示終了日,バーナータイプ
+id,件名,本文,日付,宛名,発信者名,公開日,バーナー
+表示終了日,バーナータイプ
 regular50th,第50回定期演奏会開催のお知らせ,<img src="" onerror=document.location.href="/concerts/regular50th">,Mon May 01 2017 00:00:00 GMT+0900 (Japan Standard Time),,,Mon May 01 2017 00:00:00 GMT+0900 (Japan Standard Time),Sat Jul 15 2017 00:00:00 GMT+0900 (Japan Standard Time),info
 regular52th,第52回定期演奏会開催のお知らせ,<img src="" onerror=document.location.href="/concerts/regular52th">,Wed May 01 2019 00:00:00 GMT+0900 (Japan Standard Time),,,Wed May 01 2019 00:00:00 GMT+0900 (Japan Standard Time),Fri Sep 20 2019 00:00:00 GMT+0900 (Japan Standard Time),info
-cancel53th,第53回定期演奏会の開催中止のお知らせ,平素より奈良高専吹奏楽部の活動にご支援、ご協力を賜りまして誠にありがとうございます。<br><cms-br>日々感染拡大が続いております新型コロナウイルス(COVID-19)の影響を受けまして、2020年9月13日(日)に予定しておりました「奈良高専吹奏楽部第53回定期演奏会」を中止することが決定致しました。理由と致しましては、以下の通りです。<br><br><cms-br><ul><cms-br><li>新型コロナウイルスの影響によって、授業日程の変更に伴い練習時間、開催場所などの確保が困難であるため</li><cms-br><li>学校が再開された場合でも、部活動再開の目処が立ってないことによる部員及び関係者の方々への感染防止のため</li><cms-br></ul><cms-br><br><br><cms-br>演奏会を楽しみにしていただいた皆様には誠に申し訳ありませんが、ご理解の程宜しくお願い致します。今後の活動におきましては、決定次第Twitter、Facebookなどでご連絡の方をさせて頂きます。<br><cms-br>新型コロナウイルスの一日も早い収束と、皆さまのご健康を心からお祈り申し上げます。,Fri May 08 2020 00:00:00 GMT+0900 (Japan Standard Time),,奈良高専吹奏楽部,Fri May 08 2020 00:00:00 GMT+0900 (Japan Standard Time),Mon May 31 2021 00:00:00 GMT+0900 (Japan Standard Time),error
+cancel53th,第53回定期演奏会の開催中止のお知らせ,平素より奈良高専吹奏楽部の活動にご支援、ご協力を賜りまして誠にありがとうございます。<br>
+日々感染拡大が続いております新型コロナウイルス(COVID-19)の影響を受けまして、2020年9月13日(日)に予定しておりました「奈良高専吹奏楽部第53回定期演奏会」を中止することが決定致しました。理由と致しましては、以下の通りです。<br><br>
+<ul>
+<li>新型コロナウイルスの影響によって、授業日程の変更に伴い練習時間、開催場所などの確保が困難であるため</li>
+<li>学校が再開された場合でも、部活動再開の目処が立ってないことによる部員及び関係者の方々への感染防止のため</li>
+</ul>
+<br><br>
+演奏会を楽しみにしていただいた皆様には誠に申し訳ありませんが、ご理解の程宜しくお願い致します。今後の活動におきましては、決定次第Twitter、Facebookなどでご連絡の方をさせて頂きます。<br>
+新型コロナウイルスの一日も早い収束と、皆さまのご健康を心からお祈り申し上げます。,Fri May 08 2020 00:00:00 GMT+0900 (Japan Standard Time),,奈良高専吹奏楽部,Fri May 08 2020 00:00:00 GMT+0900 (Japan Standard Time),Mon May 31 2021 00:00:00 GMT+0900 (Japan Standard Time),error
