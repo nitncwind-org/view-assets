@@ -18,6 +18,9 @@ jobs:
 
       - name: generate sitemap.xml
         run: cd dist/gen3-assets/csv && python ../../../script/sitemap-generator.py
+        
+      - name: move sitemap.xml
+        run: cd dist/gen3-assets/csv && mv sitemap.xml ../sitemap.xml
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
