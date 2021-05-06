@@ -11,6 +11,14 @@ jobs:
       - name: run
         run: mkdir dist && mkdir dist/csv &&  cd dist/csv && sh ../../run.sh
 
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: generate sitemap.xml
+        run: cd dist/csv && python ../../generate-sitemap/generator.py
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
