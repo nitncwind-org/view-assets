@@ -1,4 +1,4 @@
-name: Deploy Production
+name: Deploy Production Gen3
 
 on: workflow_dispatch
 
@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2 
 
       - name: run
-        run: mkdir dist && mkdir dist/csv &&  cd dist/csv && sh ../../run.sh
+        run: mkdir dist/gen3-assets && mkdir dist/gen3-assets/csv &&  cd dist/gen3-assets/csv && sh ../../../run.sh
 
       - name: Setup python
         uses: actions/setup-python@v2
