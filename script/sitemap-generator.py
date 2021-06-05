@@ -86,7 +86,7 @@ def main():
         if 'path' in d:
             urls = urls + makeUrl(d['path'], base_url + d['key'] + '/')
         else:
-            urls.append(base_url + d['key'])
+            urls.append(base_url + d['key'] + '?')
 
     xml_url = ''
     for url in urls:
