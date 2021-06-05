@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://nitncwind.org/?</loc>
+        <loc>https://nitncwind.org/?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/about?</loc>
+        <loc>https://nitncwind.org/about?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts?</loc>
+        <loc>https://nitncwind.org/concerts?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concours/winds?</loc>
+        <loc>https://nitncwind.org/concours/winds?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concours/ensemble?</loc>
+        <loc>https://nitncwind.org/concours/ensemble?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/link?</loc>
+        <loc>https://nitncwind.org/link?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/contact?</loc>
+        <loc>https://nitncwind.org/contact?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/news?</loc>
+        <loc>https://nitncwind.org/news?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/news/regular50th?</loc>
+        <loc>https://nitncwind.org/news/regular50th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/news/regular52th?</loc>
+        <loc>https://nitncwind.org/news/regular52th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/news/cancel53th?</loc>
+        <loc>https://nitncwind.org/news/cancel53th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/regular50th?</loc>
+        <loc>https://nitncwind.org/concerts/regular50th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/joint41th?</loc>
+        <loc>https://nitncwind.org/concerts/joint41th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/regular52th?</loc>
+        <loc>https://nitncwind.org/concerts/regular52th?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/parade2019?</loc>
+        <loc>https://nitncwind.org/concerts/parade2019?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/regular53th?</loc>
+        <loc>https://nitncwind.org/concerts/regular53th?p=search</loc>
     </url>
 </urlset>
