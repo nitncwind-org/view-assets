@@ -76,7 +76,7 @@ def makeUrl(filename, base_url):
 
     urls = []
     for id in ids:
-        urls.append(base_url + id)
+        urls.append(base_url + id + '?')
     return urls
 
 
