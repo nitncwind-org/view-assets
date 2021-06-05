@@ -76,7 +76,7 @@ def makeUrl(filename, base_url):
 
     urls = []
     for id in ids:
-        urls.append(base_url + id + '?')
+        urls.append(base_url + id + '?p=search')
     return urls
 
 
@@ -86,7 +86,7 @@ def main():
         if 'path' in d:
             urls = urls + makeUrl(d['path'], base_url + d['key'] + '/')
         else:
-            urls.append(base_url + d['key'] + '?')
+            urls.append(base_url + d['key'] + '?p=search')
 
     xml_url = ''
     for url in urls:
