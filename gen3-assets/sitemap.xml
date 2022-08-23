@@ -34,10 +34,16 @@
         <loc>https://nitncwind.org/news/cancel53th?p=search</loc>
     </url>
     <url>
+        <loc>https://nitncwind.org/news/regular53th?p=search</loc>
+    </url>
+    <url>
         <loc>https://nitncwind.org/concerts/regular50th?p=search</loc>
     </url>
     <url>
         <loc>https://nitncwind.org/concerts/joint41th?p=search</loc>
+    </url>
+    <url>
+        <loc>https://nitncwind.org/concerts/regular51th?p=search</loc>
     </url>
     <url>
         <loc>https://nitncwind.org/concerts/regular52th?p=search</loc>
@@ -46,9 +52,12 @@
         <loc>https://nitncwind.org/concerts/parade2019?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/regular53th?p=search</loc>
+        <loc>https://nitncwind.org/concerts/regular53th_2020?p=search</loc>
     </url>
     <url>
-        <loc>https://nitncwind.org/concerts/regular54th?p=search</loc>
+        <loc>https://nitncwind.org/concerts/regular53th_2021?p=search</loc>
+    </url>
+    <url>
+        <loc>https://nitncwind.org/concerts/regular53th?p=search</loc>
     </url>
 </urlset>
