@@ -40,6 +40,9 @@
         <loc>https://nitncwind.org/news/regular54th?p=search</loc>
     </url>
     <url>
+        <loc>https://nitncwind.org/news/joint47th?p=search</loc>
+    </url>
+    <url>
         <loc>https://nitncwind.org/concerts/regular50th?p=search</loc>
     </url>
     <url>
@@ -65,5 +68,8 @@
     </url>
     <url>
         <loc>https://nitncwind.org/concerts/regular54th?p=search</loc>
+    </url>
+    <url>
+        <loc>https://nitncwind.org/concerts/joint47th?p=search</loc>
     </url>
 </urlset>
