@@ -6,24 +6,24 @@ jobs:
   wget:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2 
+      - uses: actions/checkout@v4
 
       - name: run
         run: mkdir dist/gen3-assets && mkdir dist/gen3-assets/csv &&  cd dist/gen3-assets/csv && sh ../../../run.sh
 
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.x'
 
       - name: generate sitemap.xml
         run: cd dist/gen3-assets/csv && python ../../../script/sitemap-generator.py
-        
+
       - name: move sitemap.xml
         run: cd dist/gen3-assets/csv && mv sitemap.xml ../sitemap.xml
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
